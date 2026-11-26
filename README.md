@@ -22,3 +22,25 @@ This is my first project using Git and GitHub.
 
 \- Collaboration
 
+
+
+\## GitHub Workflow Practice
+
+
+
+I am learning how to:
+
+
+
+\- Create feature branches.
+
+\- Make changes to project files.
+
+\- Commit changes.
+
+\- Push branches to GitHub.
+
+\- Create Pull Requests.
+
+\- Review and merge code.
+
