@@ -94,3 +94,27 @@ This repository is a practical learning environment where I am developing my ski
 
 \- Collaborating through GitHub workflows.
 
+
+
+
+
+
+
+\## Installation Guide
+
+
+
+To get started with this project:
+
+
+
+1\. Install Git on your computer.
+
+2\. Create a GitHub account.
+
+3\. Clone this repository.
+
+4\. Open the project folder.
+
+5\. Start practicing Git and GitHub commands.
+
