@@ -94,3 +94,29 @@ This repository is a practical learning environment where I am developing my ski
 
 \- Collaborating through GitHub workflows.
 
+
+
+
+
+
+
+\## Usage Guide
+
+
+
+To practice this project:
+
+
+
+1\. Read the project documentation.
+
+2\. Practice creating Git branches.
+
+3\. Make changes to project files.
+
+4\. Commit your changes.
+
+5\. Push your branches to GitHub.
+
+6\. Create Pull Requests for review.
+
